@@ -1,0 +1,62 @@
+#container {
+  background-color: darkblue;
+  font-size: 1.3rem;
+  margin: auto;
+  width: 700px;
+  padding: 20px;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+#header,
+#secondHead {
+  text-align: center;
+}
+
+.hot {
+  background-color: tomato;
+}
+
+.bul {
+  padding: 25px;
+  font-size: 2rem;
+  margin: 5px;
+  margin-left: -20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  list-style-type: none;
+}
+
+.cool {
+  background-color: slateblue;
+}
+
+#icon {
+  padding: 20px;
+
+  margin: 30px;
+}
+
+#clear {
+  margin-bottom: 100px;
+}
+
+/* #listing {
+  width: 500px;
+  margin: auto;
+} */
+
+
+#secondHead input {
+  width: 50%;
+  padding: 25px;
+  font-size: 1.5rem;
+  margin: 5px;
+}
+
+#secondHead button {
+  /* Height: 15px; */
+  padding: 25px;
+  font-size: 1.5rem;
+  margin: 5px;
+}
