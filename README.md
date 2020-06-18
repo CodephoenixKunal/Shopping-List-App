@@ -3,7 +3,7 @@ Shopping List App
 
 Functionalities to add 
 1.  Load preExisting items from local storage
-2.  add new Tasks
+2.  add new Tasks (Work in progress)
 3.  remove tasks
 4.  clear Tasks
 5.  filter tasks
