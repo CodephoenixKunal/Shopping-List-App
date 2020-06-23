@@ -46,7 +46,6 @@
   margin: auto;
 } */
 
-
 #secondHead input {
   width: 50%;
   padding: 25px;
@@ -59,4 +58,36 @@
   padding: 25px;
   font-size: 1.5rem;
   margin: 5px;
+}
+
+i {
+  font-size: small;
+}
+
+.notice {
+  width: 50%;
+  font-size: 2rem;
+  background-color: lightblue;
+  color: black;
+  padding: 5px;
+  margin: 10px auto;
+  text-align: center;
+}
+
+#group {
+  border: 5px dashed white;
+  padding-top: 15px;
+}
+
+
+#notes {
+  width: 50%;
+  background-color: white;
+  color: black;
+  text-align: center;
+  margin: 10px auto;
+  font-size: 2rem;
+  border: 5px;
+  padding: 10px;
+  border-radius: 5px;
 }
